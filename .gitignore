@@ -12,4 +12,9 @@ build/
 
 # OS files
 .DS_Store
+<<<<<<< HEAD
 Thumbs.db
+=======
+Thumbs.db
+.si.json
+>>>>>>> 327afd6954e6f4913b786df00ab0181873722144

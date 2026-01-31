@@ -1,15 +1,23 @@
 {
+<<<<<<< HEAD
   "plugin": "org.smartide.plugin.python",
   "run": "python main.py",
+=======
+  "plugin": "org.smartide.plugin.editor",
+  "run": "echo 'change command from .si.json file'",
+>>>>>>> 327afd6954e6f4913b786df00ab0181873722144
   "gui": false,
   "intelligence": {
     ".json": {
       "enabled": true,
       "run": "vscode-json-language-server --stdio"
+<<<<<<< HEAD
     },
     ".py": {
       "enabled": true,
       "run": "pylsp"
+=======
+>>>>>>> 327afd6954e6f4913b786df00ab0181873722144
     }
   }
 }
